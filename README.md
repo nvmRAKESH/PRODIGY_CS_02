@@ -1,2 +1,2 @@
-# PRODIGY_CS_03
+# PRODIGY_CS_02
 Pixel Manipulation For Image Encryption
